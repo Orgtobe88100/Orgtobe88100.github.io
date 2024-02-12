@@ -3,5 +3,5 @@ email: tobe88100@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write your site description here.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://orgtobe88100.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://orgtobe88100.github.io/Pub1" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Orgtobe88100
