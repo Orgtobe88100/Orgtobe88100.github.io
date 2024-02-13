@@ -9,7 +9,7 @@ Hi, I'm Steve.
 
 | Rank | Focus Areas |
 |-----:|---------------|
-|     1|      Meeting Compliance         |
+|     1|      Compliance Regulatory        |
 |     2|      Process Improvement         |
 |     3|      Innovation         |
 </details>
